@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+
+    <string-array name="mMenu">
+        <item>Hot</item>
+        <item>Ice</item>
+    </string-array>
+</resources>
